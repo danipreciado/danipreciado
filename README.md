@@ -1,3 +1,6 @@
+
+![@danipreciado](https://github.com/danipreciado/danipreciado/assets/127158155/a9f27e37-0084-4224-9420-4bd8cccc9f81)
+
 - 👋 Hi, I’m @danipreciado
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
