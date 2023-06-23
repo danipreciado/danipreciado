@@ -1,6 +1,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, I’m @danipreciado
 
-![@danipreciado (1)](https://github.com/danipreciado/danipreciado/assets/127158155/4714575f-522c-4a80-8fd7-8c6f87d0b018)
+![@danipreciado (3)](https://github.com/danipreciado/danipreciado/assets/127158155/8fffe05a-cfa6-4e39-8a13-cc908999b4d0)
+
 
 - 👀 I’m interested in learning new stuff everyday, science, movies & kpop
 - 🌱 I’m currently learning React 
